@@ -22,9 +22,8 @@
 **2.Usage:**
 
 1. Downloads whole repository.
-2. Run the file and follow the steps .
-3. Automatically download the dataset.
-4. Save the model if you want.
+2. Download the pre-train model.
+4. Run the `Main.py` and follow the steps .
 
 ## 1.VGG19-CIFAR10
 
