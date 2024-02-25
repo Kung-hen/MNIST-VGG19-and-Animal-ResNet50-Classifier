@@ -23,7 +23,14 @@
 
 1. Downloads whole repository.
 2. Download the pre-train model.
-4. Run the `Main.py` and follow the steps .
+4. Run the `Main.py` and follow the steps.
+
+**3.Filepath:**   
+
+<div align = center>
+<img src="Figures/path_folder.png">
+</div>
+
 
 ## 1.VGG19-MNIST
 
@@ -52,7 +59,6 @@ https://github.com/Kung-hen/MNIST-VGG19-and-Animal-ResNet50-Classifier/assets/95
   * Learn how to train a ResNet50 model to classify images of cats and dogs using PyTorch.
 
 2. Predict the Cat/Dog :
-
 
 
 https://github.com/Kung-hen/MNIST-VGG19-and-Animal-ResNet50-Classifier/assets/95673520/8f2b3d6d-1985-4070-9593-1be4d6f6c6e4
