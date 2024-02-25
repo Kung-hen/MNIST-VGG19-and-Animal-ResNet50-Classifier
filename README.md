@@ -4,6 +4,9 @@
 
 ***1.In this project, we implemented two convolutional neural network architectures, namely VGG19 and ResNet50, for the task of image classification.***
 
+<div align = center>
+<img src="Figures/GUI.png">
+</div>
 
 **1.Requirements and dependencies**
   * Python 3.8 (https://www.python.org/downloads/)
