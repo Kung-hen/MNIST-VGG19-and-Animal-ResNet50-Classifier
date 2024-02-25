@@ -1,8 +1,8 @@
-# Training Model Structure for Classification Task
+# VGG19 and ResNet50 for Classification Task
 
 *Discription:*
 
-***1.In this project, we implemented two convolutional neural network architectures, namely VGG19 and ResNet50, for the task of image classification. These architectures are renowned for their effectiveness in various computer vision tasks, including image recognition and classification.***
+***1.In this project, we implemented two convolutional neural network architectures, namely VGG19 and ResNet50, for the task of image classification.***
 
 
 **1.Requirements and dependencies**
